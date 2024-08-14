@@ -5,7 +5,7 @@
 разработку и улучшение продуктов на всех этапах их жизненного цикла.
 
 В процессе своего самостоятельного обучения я изучала: 
-1. Алгоритмы и структуры данных и решала задачи на сайтах: [![LeetCode](https://img.shields.io/badge/LeetCode-orange.svg)](https://leetcode.com/) и [![CodeRun](https://img.shields.io/badge/CodeRun-purple.svg)](https://coderun.yandex.ru/) 
+1. Алгоритмы и структуры данных и решала задачи на сайте: [![LeetCode](https://img.shields.io/badge/LeetCode-orange.svg)](https://leetcode.com/)
 
 2. Устройства сетей связи и основных сетевых протоколов: **IP, TCP, UDP, HTTP, REST, GRPC**;
 
@@ -13,7 +13,7 @@
 
 4. Принципы **ООП** и паттерны проектирования;
 
-5. Асинхронное программирования и использовала в своих проектах.
+5. Асинхронное программирование и использовала в своих проектах.
 
 ## Ключевые навыки
 
@@ -34,9 +34,6 @@
 
 3. [AnimeBot](https://github.com/Sura1096/Anime_Bot)
 
-## My GitHub Stats
-
-<a href="http://www.github.com/Sura1096"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sura1096&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## Связь со мной
   - [Telegram](https://t.me/S_1096)
